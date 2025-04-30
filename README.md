@@ -1,2 +1,2 @@
-# Demo
+# Nitin Demo
 This is my first repository
